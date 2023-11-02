@@ -8,3 +8,7 @@ cd c:\folder_name
 ```sh
 dir
 ```
+Создание репозитория
+```
+init
+```
