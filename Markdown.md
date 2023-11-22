@@ -24,7 +24,7 @@ add
 ```sh
 log
 ```
-Создать ветку superpuper
+Создать ветку ну уж ооооочень очень  superpuper
 ```sh
 branch <name>
 ```
