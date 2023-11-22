@@ -4,7 +4,7 @@
 cd c:\folder_name
 ```
 
-Листинг текущей директории eeeee
+Листинг текущей директории superpuper
 ```sh
 dir
 ```
@@ -16,7 +16,7 @@ init
 ```sh
 rm
 ```
-Отслеживать файлы
+Отслеживать файлы superpuper
 ```sh
 add
 ```
@@ -24,7 +24,7 @@ add
 ```sh
 log
 ```
-Создать ветку   eeeeee
+Создать ветку superpuper
 ```sh
 branch <name>
 ```
