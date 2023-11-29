@@ -55,7 +55,7 @@ branch -M <(f.e. main)>
 ```
 Вытолкнуть состояние ветки в удаленный реп
 ```sh
-pull <name rep> <name branch>
+push <name rep> <name branch>
 ```
 Клонировать удаленный репозиторий в локальный
 ```sh
